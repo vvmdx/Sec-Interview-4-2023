@@ -1808,7 +1808,7 @@ CTF相关
 
    
 
-> 从到都来自于https://github.com/biggerduck/RedTeamNotes/blob/main/2022%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F.pdf  觉得写的很好就把一些比较多的整过来了，建议去下个pdf看前言部分，问题部分仅供参考
+> 从0x1F到0x26都来自于https://github.com/biggerduck/RedTeamNotes/blob/main/2022%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F.pdf  觉得写的很好就把一些比较多的整过来了，建议去下个pdf看前言部分，问题部分仅供参考
 
 # 0x1F shopee
 
