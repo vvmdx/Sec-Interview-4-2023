@@ -27,8 +27,7 @@
 | [华为提前批](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=235728) | 基本全覆盖       | 网络安全与隐私保护工程师                                     | 基本覆盖<br />可关注：<br />2012实验室-中央硬件工程院<br />华为云<br />集团IT-网络安全实验室（ICSL） |          |
 | [SHEIN提前批](https://app.mokahr.com/campus_apply/shein/2932#/job/ae220d63-46e9-4893-9423-12ba9f4f7472) | 南京             | 安全工程师                                                   | 无                                                           |          |
 | [大疆](https://we.dji.com/zh-CN/campus/position?from=home_page&top_cta=undefined&project=recruitment&page=1&category=109_110) | 上海、深圳       | 嵌入式系统安全工程师<br />功能安全工程师<br />安全技术开发工程师 | 研发团队<br />车载团队<br />信息管理团队                     | 7.6~8.10 |
-|                                                              |                  |                                                              |                                                              |          |
-|                                                              |                  |                                                              |                                                              |          |
+| [联想](https://talent.lenovo.com.cn/joblist?apply_to=campus) | 北京、天津、厦门 | 安全工程师                                                   | [IDG](https://talent.lenovo.com.cn/resume/jdlist/2225)<br />[Lenovo Research](https://talent.lenovo.com.cn/resume/jdlist/2227) | 7.15开始 |
 
 
 
