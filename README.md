@@ -28,6 +28,11 @@
 | [SHEIN提前批](https://app.mokahr.com/campus_apply/shein/2932#/job/ae220d63-46e9-4893-9423-12ba9f4f7472) | 南京             | 安全工程师                                                   | 无                                                           |          |
 | [大疆](https://we.dji.com/zh-CN/campus/position?from=home_page&top_cta=undefined&project=recruitment&page=1&category=109_110) | 上海、深圳       | 嵌入式系统安全工程师<br />功能安全工程师<br />安全技术开发工程师 | 研发团队<br />车载团队<br />信息管理团队                     | 7.6~8.10 |
 | [联想](https://talent.lenovo.com.cn/joblist?apply_to=campus) | 北京、天津、厦门 | 安全工程师                                                   | [IDG](https://talent.lenovo.com.cn/resume/jdlist/2225)<br />[Lenovo Research](https://talent.lenovo.com.cn/resume/jdlist/2227) | 7.15开始 |
+| [oppo提前批](https://careers.oppo.com/campus/post/detail?id=421&privacyVal) | 深圳、程度       | 终端安全工程师（二进制、安卓、逆向类）                       |                                                              |          |
+| [网易雷火](https://campus.163.com/app/detail/index?id=1953&projectId=45) | 杭州             | 游戏安全工程师（游戏、安全、二进制）                         | 雷火事业群                                                   | 7.5~9.28 |
+| [蔚来](https://nio.jobs.feishu.cn/campus/?keywords=%E5%AE%89%E5%85%A8&category=6937213309162752293&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 上海、北京、合肥 | 岗位较多，覆盖面大                                           |                                                              |          |
+| [科大讯飞](https://campus.iflytek.com/official-pc/jobDetail?id=330&projectId=4) | 合肥             | 安全工程师                                                   |                                                              | 7.11     |
+| [米哈游](https://campus.mihoyo.com/#/campus/position)        | 上海             | [信息安全工程师（客户端）](https://campus.mihoyo.com/#/campus/position/47)<br />[安全运营](https://campus.mihoyo.com/#/campus/position/13) |                                                              | 7.4      |
 
 
 
