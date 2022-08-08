@@ -39,6 +39,8 @@
 | 网易游戏（互娱）                                             | 广州                 | [安全工程师](https://game.campus.163.com/position-detail/704) |                                                              | 7.26~9月中下旬                              |
 | [海康威视](https://campushr.hikvision.com/school.html)       | 杭州                 | [网络安全工程师](https://campushr.hikvision.com/JobDetails.html?id=1fc64fd9523b49b8b062cb3402202aa3&type=0)<br />[安全开发工程师](https://campushr.hikvision.com/JobDetails.html?id=9f16bee4baf14cba94b8cc1033991b9d&type=0)<br /><br />[安全研究员（博士学历）](https://campushr.hikvision.com/JobDetails.html?id=cf4ff46e1b8b40639e188206af78a2fa&type=0)<br />安全方案工程师 |                                                              |                                             |
 | [4399](http://web.4399.com/campus/yjsgw/jishulei/#1157023)   | 广州                 | 信息安全工程师                                               |                                                              |                                             |
+| [美团](https://campus.meituan.com/jobs?jobFamily=1&jobId=4961&jobName=%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%88&jobType=1&pageNo=3) |                      | 安全工程师（简历稀缺）                                       |                                                              | 8.1~10.31（招满即止）                       |
+| [Garena](https://app.mokahr.com/campus_apply/garena/38200#/jobs?keyword=%E5%AE%89%E5%85%A8) | 上海、杭州           | 信息安全工程师<br />安全逆向工程师                           |                                                              |                                             |
 
 # 好文分享
 
