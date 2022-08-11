@@ -21,6 +21,8 @@
 
 有最新的公司校招信息可以随时issue，我会第一时间更新
 
+以安全为主业的公司我就不放了（360、深信服、奇安信等），主要放不以安全为主业但有安全业务的公司
+
 | 公司及投递链接                                               | base                 | 岗位                                                         | 部门                                                         | 投递时间                                    |
 | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------- |
 | [字节跳动提前批](https://jobs.bytedance.com/campus/position?&category=6704216109274368264&type=2&current=1&limit=10) | 北京、深圳、杭州     | 渗透测试工程师<br />安全研究工程师<br />安全工程师           | 安全与风控<br />无恒实验室                                   | 7.7~7.31                                    |
@@ -41,12 +43,37 @@
 | [4399](http://web.4399.com/campus/yjsgw/jishulei/#1157023)   | 广州                 | 信息安全工程师                                               |                                                              |                                             |
 | [美团](https://campus.meituan.com/jobs?jobFamily=1&jobId=4961&jobName=%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%88&jobType=1&pageNo=3) |                      | 安全工程师（简历稀缺）                                       |                                                              | 8.1~10.31（招满即止）                       |
 | [Garena](https://app.mokahr.com/campus_apply/garena/38200#/jobs?keyword=%E5%AE%89%E5%85%A8) | 上海、杭州           | 信息安全工程师<br />安全逆向工程师                           |                                                              |                                             |
+| [AutoX](https://app.mokahr.com/campus_apply/autox/6313#/jobs?keyword=%E5%AE%89%E5%85%A8) | 北上广深             | [信息安全合规工程师](https://app.mokahr.com/campus_apply/autox/6313#/job/2da57366-8bc2-41d3-9c83-8e5e0082fb80)<br />[安全开发运维工程师](https://app.mokahr.com/campus_apply/autox/6313#/job/276fa91d-e3f1-4409-937b-3af11be36ac2)<br />[嵌入式开发-安全工程师](https://app.mokahr.com/campus_apply/autox/6313#/job/ded0b8c3-1034-4a81-b85e-cfc49a44b7b6)<br />[后台开发工程师-安全服务](https://app.mokahr.com/campus_apply/autox/6313#/job/ba93e27f-9323-4410-b214-8b831971d1bb) | [网络安全团队](https://mp.weixin.qq.com/s/AM9aAq3okhWjaJwhnxwoWQ) |                                             |
+| [快手](https://campus.kuaishou.cn/#/campus/job-info/2947)    | 北京                 | 安全工程师                                                   | 工程类-安全                                                  |                                             |
+| [字节跳动正式批](https://jobs.bytedance.com/campus/position?keywords=%E5%AE%89%E5%85%A8&category=&location=&project=7111884057764448548&type=2&job_hot_flag=&current=1&limit=10&functionCategory=) | 北京、深圳、杭州     | 安全研究工程师<br />安全工程师<br />隐私计算研究员<br />渗透测试工程师<br /> | 安全与风控<br />无恒实验室                                   | 8.10~10.31                                  |
+| [完美世界](https://recruit.games.wanmei.com/campus-recruitment/pwrd/45131/#/jobs?keyword=%E5%AE%89%E5%85%A8) | 北京-朝阳区          | [安全分析工程师（提前批）](https://recruit.games.wanmei.com/campus-recruitment/pwrd/45131/#/job/c5c0e2e5-d457-4707-9b9a-1cec3d2ead0e)<br />[安全分析工程师](https://recruit.games.wanmei.com/campus-recruitment/pwrd/45131/#/job/1ae1e5e3-675d-4434-996e-78e4fecd2866) |                                                              |                                             |
 
 # 好文分享
 
 [作为安全工程师，都有哪些可选择的公司？](https://www.nowcoder.com/discuss/972050)
 
+下午听说字节和快手校招官网hc泄露，看了下应该是去年的数据，毕竟去年总计8k+hc对的上，今年剩3khc了（指字节，快手我不清楚）
 
+不过还是有点参考性的，看看也行（下图是字节的）
+
+| 岗位             | 部门       | hc   | base |
+| ---------------- | ---------- | ---- | ---- |
+| 渗透测试工程师   | 无恒实验室 | 1    | 杭州 |
+| 渗透测试工程师   | 无恒实验室 | 1    | 深圳 |
+| 渗透测试工程师   | 无恒实验室 | 4    | 北京 |
+| 安全工程师       | 无恒实验室 | 1    | 杭州 |
+| 安全工程师       | 无恒实验室 | 1    | 深圳 |
+| 安全工程师       | 无恒实验室 | 4    | 北京 |
+| 渗透测试工程师   | 安全与风控 | 10   | 深圳 |
+| 渗透测试工程师   | 安全与风控 | 10   | 杭州 |
+| 渗透测试工程师   | 安全与风控 | 10   | 北京 |
+| 安全工程师       | 安全与风控 | 15   | 深圳 |
+| 安全工程师       | 安全与风控 | 15   | 北京 |
+| 安全工程师       | 安全与风控 | 15   | 杭州 |
+| 隐私计算研究员   | 安全与风控 | 2    | 深圳 |
+| 安全研究工程师   | 安全与风控 | 1    | 北京 |
+| 安全产品运营     | 飞书       | 2    | 北京 |
+| 安全策略产品经理 | 番茄小说   | 1    | 北京 |
 
 **<big>目录</big>**
 
