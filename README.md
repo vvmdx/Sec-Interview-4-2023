@@ -49,10 +49,22 @@
 | [完美世界](https://recruit.games.wanmei.com/campus-recruitment/pwrd/45131/#/jobs?keyword=%E5%AE%89%E5%85%A8) | 北京-朝阳区            | [安全分析工程师（提前批）](https://recruit.games.wanmei.com/campus-recruitment/pwrd/45131/#/job/c5c0e2e5-d457-4707-9b9a-1cec3d2ead0e)<br />[安全分析工程师](https://recruit.games.wanmei.com/campus-recruitment/pwrd/45131/#/job/1ae1e5e3-675d-4434-996e-78e4fecd2866) |                                                              |                                             |
 | [京东](https://campus.jd.com/#/details?id=3770)              | 北京                   | 安全工程师                                                   |                                                              | 8.1~10.28                                   |
 | [中国电信天翼云](https://wecruit.hotjob.cn/SU62b2ae672f9d24458d72f9cc/pb/school.html?postName=%E5%AE%89%E5%85%A8) | 北京、成都、厦门、广州 | 信息安全工程师（北京要求硕士及以上）                         |                                                              |                                             |
+| [拼多多](https://careers.pinduoduo.com/campus/recent/detail?guid=ad8cb3ac-267b-4b35-ab45-ec46de791741&from=home&scrolltop=700) |                        | 安全工程师                                                   | 仅开放内推                                                   | 8.15~10.14                                  |
+| [阿里巴巴](https://talent.alibaba.com/campus/position-list?campusType=freshman) | 杭州、北京、上海       | 安全工程师                                                   | 菜鸟<br />阿里星Lab                                          |                                             |
+| [Zoom](https://www.nowcoder.com/careers/zoom/102351?type=neitui&source=08D65A1F3FCEF22E11D216B0D92CCECC477A4E945DEDE621) | 苏州、杭州、合肥       | 应用安全工程师                                               |                                                              | 9.28之前                                    |
+| [远景科技](https://app.mokahr.com/campus_apply/envisiongroup/43123?sourceToken=e4614e2db76faa2afde1f6698825d29b#/job/6600c287-372b-4f54-ab8a-86a2e809dd06) | 上海                   | 信息安全工程师                                               | 远景能源                                                     | 10.31之前                                   |
+| [贝壳找房](http://campus.ke.com/adcrecru.aspx)               | 北京                   | 安全研发工程师<br />安全工程师                               |                                                              |                                             |
+| [竞技世界](https://campus.jj.cn/#/chooseJob)                 | 北京                   | 安全工程师                                                   |                                                              | 8.22开始                                    |
+| [地平线](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html?postName=%E5%AE%89%E5%85%A8) | 上海                   | [安全工程师（信息/功能方向)-Auto](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/posDetail.html?postId=62f4dc5e2f9d241d028a008d&postType=campus&recruitType=1)<br />[安全工程师（信息/功能方向)](安全工程师（信息/功能方向）) | 适合车载安全（iot、二进制）、ai安全、芯片安全                |                                             |
+| [小红书REDstar](https://job.xiaohongshu.com/campus)          | 上海                   | [java开发工程师-安全](https://job.xiaohongshu.com/jobs/6708/campus)<br />[机器学习算法工程师-安全技术](https://job.xiaohongshu.com/jobs/6709/campus) | 一个是开发一个是算法，安全只能叫沾边吧。。<br />REDstar无需笔试 | 9.30之前                                    |
+| [度小满](https://app.mokahr.com/campus_apply/duxiaoman/74050#/) | 北京                   | [信息安全工程师](https://app.mokahr.com/campus_apply/duxiaoman/74050?sourceToken=5c372cd2d6c9fd5e1f173ade6b28fe9a#/job/6e183800-6109-4fbd-b0f6-72951a862309) |                                                              |                                             |
+| [兴业数金](https://www.nowcoder.com/careers/cibfintech/104324?ncsr=EYzuBA) | 上海、福州、成都       | 信息安全工程师                                               |                                                              |                                             |
 
 # 好文分享
 
 [作为安全工程师，都有哪些可选择的公司？](https://www.nowcoder.com/discuss/972050)
+
+[安全岗笔试题](https://www.nowcoder.com/search?type=paper&query=%E5%AE%89%E5%85%A8+%E7%AC%94%E8%AF%95)
 
 下午听说字节和快手校招官网hc泄露，看了下应该是去年的数据，毕竟去年总计8k+hc对的上，今年剩3khc了（指字节，快手我不清楚）
 
