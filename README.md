@@ -59,6 +59,8 @@
 | [小红书REDstar](https://job.xiaohongshu.com/campus)          | 上海                   | [java开发工程师-安全](https://job.xiaohongshu.com/jobs/6708/campus)<br />[机器学习算法工程师-安全技术](https://job.xiaohongshu.com/jobs/6709/campus) | 一个是开发一个是算法，安全只能叫沾边吧。。<br />REDstar无需笔试 | 9.30之前                                    |
 | [度小满](https://app.mokahr.com/campus_apply/duxiaoman/74050#/) | 北京                   | [信息安全工程师](https://app.mokahr.com/campus_apply/duxiaoman/74050?sourceToken=5c372cd2d6c9fd5e1f173ade6b28fe9a#/job/6e183800-6109-4fbd-b0f6-72951a862309) |                                                              |                                             |
 | [兴业数金](https://www.nowcoder.com/careers/cibfintech/104324?ncsr=EYzuBA) | 上海、福州、成都       | 信息安全工程师                                               |                                                              |                                             |
+| [oppo](https://careers.oppo.com/campus/post/home)            | 深圳、成都             | 终端安全工程师<br />互联网安全工程师<br />信息安全工程师     |                                                              |                                             |
+| [小米](https://hr.xiaomi.com/campus)                         | 北京、南京             | [安全研发工程师](https://app.mokahr.com/campus_apply/xiaomi/47097#/job/86505662-20d2-4eb8-8943-d0d3e1cc21e7)<br />[安全工程师](https://app.mokahr.com/campus_apply/xiaomi/47097#/job/e0fa3f01-7380-4c40-9e0e-32a1dfecf082)<br />[安全操作系统工程师](https://app.mokahr.com/campus_apply/xiaomi/47097#/job/3c92b9ec-abea-467b-b083-00bf5128be2c) |                                                              | 9.7之前免bi'shi                             |
 
 # 好文分享
 
