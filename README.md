@@ -86,6 +86,11 @@
 | [阳光保险](https://www.nowcoder.com/jobs/school/detail?jobId=140521&activityId=16&activitySuffix=2023jrzc&channel=sq_sqdoc) | 北京                   | 信息安全工程师（安全运维/安全开发）                          |                                                              | 8.27~9.30                                   |
 | [奕斯伟](https://campus.eswincomputing.com/campusxq?jobId=310620216&c=&c2=&p=1^-1,3^-1&ky=&d=&PageIndex=3#zw) | 北京                   | 信息安全工程师                                               |                                                              |                                             |
 | [58同城](https://campus.58.com/xzxq?jobId=150515131)         | 北京                   | 安全工程师                                                   |                                                              |                                             |
+| [金发科技](https://kingfa.zhiye.com/zpdetail/560681834)      | 广州                   | 信息安全工程师                                               |                                                              |                                             |
+| [东方财富](https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/57971#/jobs?keyword=%E5%AE%89%E5%85%A8) | 上海                   | 信息安全岗位<br />信息安全开发工程师<br />信息安全咨询师     |                                                              |                                             |
+| [中金所](https://cffexit.zhiye.com/zpdetail/390501584)       | 上海                   | 运维工程师-网络安全技术方向                                  | 硕士+                                                        |                                             |
+| [中国电信天翼云](https://wecruit.hotjob.cn/SU62b2ae672f9d24458d72f9cc/pb/school.html?postName=%E5%AE%89%E5%85%A8) | 北京、成都、厦门、广州 | 信息安全工程师                                               | 北京需要硕士+                                                |                                             |
+| [浩鲸科技](http://iwhalecloud.zhiye.com/form?fromPage=job&jobAdId=fec6b63f-abc8-4f1d-9057-b0d867c9bc4e) | 南京                   | 安全工程师                                                   |                                                              |                                             |
 
 # 好文分享
 
