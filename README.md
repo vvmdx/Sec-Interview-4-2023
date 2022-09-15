@@ -101,6 +101,9 @@
 | [联易融](https://hr.linklogis.com/#/jobDetail/08e50ef2-ec61-4b98-93f3-4c8501aa60d6/390509430?WorkingPlace=%E6%B7%B1%E5%9C%B3%E5%B8%82) | 深圳                         | 信息安全工程师                                               |                                                              |                                             |
 | [海信集团](https://hisense.zhiye.com/jihui?k=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8) | 佛山、青岛                   | 网络安全工程师                                               |                                                              |                                             |
 | [人保寿险](https://picc.zhiye.com/xzlist3?k=%E5%AE%89%E5%85%A8&d=-1&c=&p=1^-1,3^-1&PageIndex=1) | 福州、上海、佛山、南京       | 信息安全、基础安全、应用安全、数据安全                       |                                                              |                                             |
+| [途虎养车](https://app.mokahr.com/campus_apply/tuhu/28398?sourceToken=c403a200011f884f58ed33626baef087#/job/46ecffba-8698-4735-ab4d-6fe54261c277) | 上海                         | 信息安全工程师                                               |                                                              |                                             |
+| [零跑科技](https://leapmotor.zhiye.com/search?r=2&p=&c=&d=&k=%e5%ae%89%e5%85%a8#jlt) | 杭州                         | 信息安全工程师<br />信息安全开发工程师                       |                                                              |                                             |
+| [腾讯](https://join.qq.com/post_detail.html?pid=1&id=112&tid=2) | 深圳、北京                   | 安全技术                                                     |                                                              |                                             |
 
 # 好文分享
 
