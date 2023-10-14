@@ -119,7 +119,7 @@
 
 [部分牛客安全岗面经](https://www.nowcoder.com/discuss/751095?type=post&order=recall&pos=&page=1&ncTraceId=&channel=-1&source_id=search_post_nctrack&gio_id=C644A4A66482D41AB59A3DF3F860459E-1662134563061)
 
-
+[一个双非安全菜鸡的秋招总结](https://hurricane618.me/2021/12/08/2021-autunm-recruitment-summary)
 
 **<big>目录</big>**
 
