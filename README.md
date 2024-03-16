@@ -21,91 +21,95 @@
 
 # 安全岗目录
 
-有最新的公司校招信息可以随时issue，我会第一时间更新
+本来这里放的是当年我找工作时的秋招目录，现在大多数链接和岗位都失效了，就不放表格了，可以参考下公司分类（都是曾经收过安全岗的公司，可能有漏的，也可能现在不收了）自己找官网投
 
-以安全为主业的公司我就不放了（360、深信服、奇安信等），主要放不以安全为主业但有安全业务的公司
+> 投递具体的部门之前建议还是多找找认识的人了解下情况，年轻人的第一份工作还是要避免踩坑 : )
 
-| 公司及投递链接                                               | base                         | 岗位                                                         | 部门                                                         |
-| ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [字节跳动](https://jobs.bytedance.com/campus/)               | 北京、深圳、杭州             | 渗透测试工程师<br />安全研究工程师<br />安全工程师           | 安全与风控<br />无恒实验室                                   |
-| [华为](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=3805&dataSource=1&jobType=0) | 基本全覆盖                   | 网络安全与隐私保护工程师                                     | 基本覆盖                                                     |
-| [SHEIN](https://talent.sheincorp.cn/CampusRecruiting.html)   | 南京                         | 安全工程师                                                   | 无                                                           |
-| [大疆](https://we.dji.com/zh-CN/campus/position)             | 上海、深圳                   | 嵌入式系统安全工程师<br />功能安全工程师<br />安全技术开发工程师 | 研发团队<br />车载团队<br />信息管理团队                     |
-| [联想](https://talent.lenovo.com.cn/joblist?apply_to=campus) | 北京、天津、厦门             | 安全工程师                                                   | [IDG](https://talent.lenovo.com.cn/resume/jdlist/2225)<br />[Lenovo Research](https://talent.lenovo.com.cn/resume/jdlist/2227) |
-| [oppo提前批](https://careers.oppo.com/university/oppo/campus) | 深圳、成都                   | 终端安全工程师（二进制、安卓、逆向类）                       |                                                              |
-| [网易雷火](https://leihuo.163.com/campus/#/full?channel=MnxLnjI) | 杭州                         | 游戏安全工程师（游戏、安全、二进制）                         | 雷火事业群                                                   |
-| [蔚来](https://nio.jobs.feishu.cn/campus)                    | 上海、北京、合肥             | 岗位较多，覆盖面大                                           |                                                              |
-| [科大讯飞](https://campus.iflytek.com/official-pc/jobList)   | 合肥                         | 安全工程师                                                   |                                                              |
-| [米哈游](https://campus.mihoyo.com/#/campus/position)        | 上海                         | [信息安全工程师（客户端）](https://campus.mihoyo.com/#/campus/position/47)<br />[安全运营](https://campus.mihoyo.com/#/campus/position/13) |                                                              |
-| [Shopee](https://app.mokahr.com/campus_apply/shopee/98508#/) | 深圳（Sg暂未上线hc）         | 安全工程师                                                   | 研发中心                                                     |
-| [百度](https://talent.baidu.com/jobs/list?search=%E5%AE%89%E5%85%A8) | 北京、成都                   | 安全工程师<br />数据安全研究员<br />人工智能安全算法研发工程师 |                                                              |
-| 网易                                                         | 杭州                         | [IOS安全开发](https://campus.163.com/app/detail/index?id=2112&projectId=46)<br />[Android安全开发](https://campus.163.com/app/detail/index?id=2111&projectId=46)<br />[安全运营专员（产品岗）](https://campus.163.com/app/detail/index?id=2066&projectId=46) |                                                              |
-| 网易游戏（互娱）                                             | 广州                         | [安全工程师](https://game.campus.163.com/position-detail/704) |                                                              |
-| [海康威视](https://campushr.hikvision.com/school.html)       | 杭州                         | [网络安全工程师](https://campushr.hikvision.com/JobDetails.html?id=1fc64fd9523b49b8b062cb3402202aa3&type=0)<br />[安全开发工程师](https://campushr.hikvision.com/JobDetails.html?id=9f16bee4baf14cba94b8cc1033991b9d&type=0)<br /><br />[安全研究员（博士学历）](https://campushr.hikvision.com/JobDetails.html?id=cf4ff46e1b8b40639e188206af78a2fa&type=0)<br />安全方案工程师 |                                                              |
-| [4399](http://web.4399.com/campus/yjsgw/jishulei/#1157023)   | 广州                         | 信息安全工程师                                               |                                                              |
-| [美团](https://campus.meituan.com/jobs?jobFamily=1&jobId=4961&jobName=%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%88&jobType=1&pageNo=3) |                              | 安全工程师                                                   |                                                              |
-| [Garena](https://app.mokahr.com/campus_apply/garena/98536#/) | 上海、杭州                   | 信息安全工程师<br />安全逆向工程师                           |                                                              |
-| [AutoX](https://app.mokahr.com/campus_apply/autox/6313#/)    | 北上广深                     | [信息安全合规工程师](https://app.mokahr.com/campus_apply/autox/6313#/job/2da57366-8bc2-41d3-9c83-8e5e0082fb80)<br />[安全开发运维工程师](https://app.mokahr.com/campus_apply/autox/6313#/job/276fa91d-e3f1-4409-937b-3af11be36ac2)<br />[嵌入式开发-安全工程师](https://app.mokahr.com/campus_apply/autox/6313#/job/ded0b8c3-1034-4a81-b85e-cfc49a44b7b6)<br />[后台开发工程师-安全服务](https://app.mokahr.com/campus_apply/autox/6313#/job/ba93e27f-9323-4410-b214-8b831971d1bb) | [网络安全团队](https://mp.weixin.qq.com/s/AM9aAq3okhWjaJwhnxwoWQ) |
-| [快手](https://campus.kuaishou.cn/#/campus/job-info/2947)    | 北京                         | 安全工程师                                                   | 工程类-安全                                                  |
-| [字节跳动正式批](https://jobs.bytedance.com/campus/position) | 北京、深圳、杭州             | 安全研究工程师<br />安全工程师<br />隐私计算研究员<br />渗透测试工程师<br /> | 安全与风控<br />无恒实验室                                   |
-| [完美世界](https://recruit.games.wanmei.com/#/page/24%E5%B1%8A%E5%BA%94%E5%B1%8A%E7%94%9F%E8%81%8C%E4%BD%8D) | 北京-朝阳区                  | [安全分析工程师（提前批）](https://recruit.games.wanmei.com/campus-recruitment/pwrd/45131/#/job/c5c0e2e5-d457-4707-9b9a-1cec3d2ead0e)<br />[安全分析工程师](https://recruit.games.wanmei.com/campus-recruitment/pwrd/45131/#/job/1ae1e5e3-675d-4434-996e-78e4fecd2866) |                                                              |
-| [京东](https://campus.jd.com/)                               | 北京                         | 安全工程师                                                   |                                                              |
-| [中国电信天翼云](https://wecruit.hotjob.cn/SU62b2ae672f9d24458d72f9cc/pb/school.html?postName=%E5%AE%89%E5%85%A8) | 北京、成都、厦门、广州       | 信息安全工程师（北京要求硕士及以上）                         |                                                              |
-| [拼多多](https://careers.pinduoduo.com/campus/recent/detail?guid=ad8cb3ac-267b-4b35-ab45-ec46de791741&from=home&scrolltop=700) |                              | 安全工程师                                                   | 仅开放内推                                                   |
-| [阿里巴巴](https://talent.alibaba.com/campus/position-list?campusType=freshman) | 杭州、北京、上海             | 安全工程师                                                   |                                                              |
-| [Zoom](https://www.nowcoder.com/careers/zoom/102351?type=neitui&source=08D65A1F3FCEF22E11D216B0D92CCECC477A4E945DEDE621) | 苏州、杭州、合肥             | 应用安全工程师                                               |                                                              |
-| [远景科技](https://app.mokahr.com/campus_apply/envisiongroup/43123?sourceToken=e4614e2db76faa2afde1f6698825d29b#/job/6600c287-372b-4f54-ab8a-86a2e809dd06) | 上海                         | 信息安全工程师                                               | 远景能源                                                     |
-| [贝壳找房](http://campus.ke.com/adcrecru.aspx)               | 北京                         | 安全研发工程师<br />安全工程师                               |                                                              |
-| [竞技世界](https://campus.jj.cn/#/chooseJob)                 | 北京                         | 安全工程师                                                   |                                                              |
-| [地平线](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html?postName=%E5%AE%89%E5%85%A8) | 上海                         | [安全工程师（信息/功能方向)-Auto](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/posDetail.html?postId=62f4dc5e2f9d241d028a008d&postType=campus&recruitType=1) |                                                              |
-| [小红书REDstar](https://job.xiaohongshu.com/campus)          | 上海                         | [java开发工程师-安全](https://job.xiaohongshu.com/jobs/6708/campus)<br />[机器学习算法工程师-安全技术 |                                                              |
-| [度小满](https://app.mokahr.com/campus_apply/duxiaoman/74050#/) | 北京                         | [信息安全工程师](https://app.mokahr.com/campus_apply/duxiaoman/74050?sourceToken=5c372cd2d6c9fd5e1f173ade6b28fe9a#/job/6e183800-6109-4fbd-b0f6-72951a862309) |                                                              |
-| [兴业数金](https://www.nowcoder.com/careers/cibfintech/104324?ncsr=EYzuBA) | 上海、福州、成都             | 信息安全工程师                                               |                                                              |
-| [oppo](https://careers.oppo.com/campus/post/home)            | 深圳、成都                   | 终端安全工程师<br />互联网安全工程师<br />信息安全工程师     |                                                              |
-| [小米](https://hr.xiaomi.com/campus)                         | 北京、南京                   | [安全研发工程师](https://app.mokahr.com/campus_apply/xiaomi/47097#/job/86505662-20d2-4eb8-8943-d0d3e1cc21e7)<br />[安全工程师](https://app.mokahr.com/campus_apply/xiaomi/47097#/job/e0fa3f01-7380-4c40-9e0e-32a1dfecf082)<br />[安全操作系统工程师](https://app.mokahr.com/campus_apply/xiaomi/47097#/job/3c92b9ec-abea-467b-b083-00bf5128be2c) |                                                              |
-| [vivo](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostInfoForAjax?postId=145934&recruitType=1&brandCode=1) | 深圳、东莞                   | 安全工程师                                                   |                                                              |
-| [小鹏](https://app.mokahr.com/campus_apply/xiaopeng/22#/)    | 广州、上海                   | [信息安全培训生](https://app.mokahr.com/campus_apply/xiaopeng/22#/job/ea87d1bc-2d28-4385-9357-0b5fcf0f3aba)<br />[系统安全软件工程师](https://app.mokahr.com/campus_apply/xiaopeng/22#/job/00b172ec-9b85-48a9-b228-2c5b0331e932) |                                                              |
-| [Momenta](https://momenta.jobs.feishu.cn/campus/position/7132723277702121742/detail?spread=YMAY754) | 深圳                         | 信息安全工程师                                               |                                                              |
-| [TCL](http://campus.tcl.com/post/details.html?post_code=all) | 深圳                         | 软件开发工程师（安全方向）<br />信息安全工程师               | 鸿鹄实验室（提前批）<br />软件工程中心                       |
-| [吉利](https://campus.geely.com/hcm-web/#/jobs/school)       | 杭州、宁波                   | 信息安全工程师<br />功能安全工程师<br />[氪学家-信息安全/攻防方向](https://campus.geely.com/hcm-web/#/job-detail/school/10979)<br />信息安全开发工程师<br />[氪学家-车联网安全研究员](https://campus.geely.com/hcm-web/#/job-detail/school/10978) | 多个下属组织分开收                                           |
-| [中兴](https://app.mokahr.com/campus-recruitment/zte/46903#/job/7b9efee8-799e-4c69-b34b-7d5cc9fb5797) | 南京、长沙、西安、深圳       | 网络安全工程师                                               |                                                              |
-| [滴滴](https://campus.didiglobal.com/campus_apply/didiglobal/6223#/jobs?keyword=%E5%AE%89%E5%85%A8) | 北京                         | 安全工程师（密码开发、容器开发、接口安全、反入侵、移动安全）<br />安全算法工程师 | CTO线<br />国际化事业部                                      |
-| [顺丰科技](http://campus.sf-express.com/#/postDetail/1054)   | 深圳                         | 信息安全工程师（顺丰科技）                                   |                                                              |
-| [微众银行](https://campus.webank.com/campus-recruitment/webankhr/18005/#/jobs?keyword=%E5%AE%89%E5%85%A8) | 深圳、武汉                   | 信息安全工程师（应用安全、信息安全管理、后端开发C++、反欺诈、安全攻防） |                                                              |
-| [腾讯音乐](https://join.tencentmusic.com/campus/post-details/?id=11740) | 深圳                         | 安全策略                                                     |                                                              |
-| [TP-Link](https://hr.tp-link.com.cn/jobList)                 | 深圳                         | [网络安全算法工程师](https://hr.tp-link.com.cn/jobDetail/5415)<br />[信息安全工程师（深圳）](https://hr.tp-link.com.cn/jobDetail/5467) |                                                              |
-| [携程](https://campus.ctrip.com/campus-recruitment/trip/37757#/job/ff4bdaf8-3c0a-45f6-a46e-1e2d8c2910e7) | 上海                         | 基础安全工程师                                               |                                                              |
-| [海尔](http://vta.maker.haier.net/client/campus/deliverfirst/id/19/fid/7/rid/105.html) | 青岛                         | 信息安全工程师                                               |                                                              |
-| [荣耀](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/posDetail.html?postId=62b3b9f70dcad406d138ee41&postType=campus&recruitType=1) | 北京、南京、深圳             | 网络安全工程师                                               |                                                              |
-| [中国人寿](https://chinalife.hotjob.cn/wt/chinalife/web/templet1000/index/corpwebPosition1000chinalife!gotoPostListForAjax?brandCode=1&recruitType=1) | 很多                         | 很多                                                         |                                                              |
-| [格力](https://gree.zhiye.com/zpdetail/620670720?r=-1&p=&c=&d=&k=%E5%AE%89%E5%85%A8) | 珠海                         | 信息安全                                                     |                                                              |
-| [传音控股](https://transsion.zhiye.com/campus?r=-1&p=&c=&d=&k=%E5%AE%89%E5%85%A8#jlt) | 上海、重庆                   | 系统安全工程师（web、安卓、安全开发）<br />安全合规<br />安卓隐私安全开发 |                                                              |
-| [美的]()                                                     | 深圳、佛山、武汉             | [信息安全技术研发工程师](https://careers.midea.com/schoolOut/post/details?projectRuleId=cf176940-20cc-4651-a0d7-b64b8c452399&positionId=8a928eae826e11800182a9f8fe970610&recruitCategoryId=85ed0569354a46578240983830fe0c5b)<br />[信息安全工程师](https://careers.midea.com/schoolOut/post/details?projectRuleId=cf176940-20cc-4651-a0d7-b64b8c452399&positionId=8a928eae826e11800182ab773dbe0b64&recruitCategoryId=85ed0569354a46578240983830fe0c5b) |                                                              |
-| [西云数据](https://app.mokahr.com/campus_apply/nwcdcloud/4047?sourceToken=199bbc29da2b6aaa73f3c074f362b75f#/job/3920a99a-364e-4a38-8dec-8272d108125a) | 北京                         | 信息安全工程师                                               |                                                              |
-| [工商银行](https://job.icbc.com.cn/pc/index.html#/main/school/home/post?pti=D00001) | 北京、广州、杭州、珠海       | 科技菁英-安全技术                                            |                                                              |
-| [欧科云链](https://www.nowcoder.com/jobs/school/detail?jobId=118712&activityId=17&activitySuffix=2023szhzc&channel=sq_sqdoc) | 北京                         | 安全开发工程师                                               |                                                              |
-| [建信金科](https://www.nowcoder.com/jobs/school/detail?jobId=146456&activityId=16&activitySuffix=2023jrzc&channel=sq_sqdoc) | 北京                         | 信息安全工程师（实施管理中心）                               |                                                              |
-| [阳光保险](https://www.nowcoder.com/jobs/school/detail?jobId=140521&activityId=16&activitySuffix=2023jrzc&channel=sq_sqdoc) | 北京                         | 信息安全工程师（安全运维/安全开发）                          |                                                              |
-| [奕斯伟](https://campus.eswincomputing.com/campusxq?jobId=310620216&c=&c2=&p=1^-1,3^-1&ky=&d=&PageIndex=3#zw) | 北京                         | 信息安全工程师                                               |                                                              |
-| [58同城](https://campus.58.com/xzxq?jobId=150515131)         | 北京                         | 安全工程师                                                   |                                                              |
-| [金发科技](https://kingfa.zhiye.com/zpdetail/560681834)      | 广州                         | 信息安全工程师                                               |                                                              |
-| [东方财富](https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/57971#/jobs?keyword=%E5%AE%89%E5%85%A8) | 上海                         | 信息安全岗位<br />信息安全开发工程师<br />信息安全咨询师     |                                                              |
-| [中金所](https://cffexit.zhiye.com/zpdetail/390501584)       | 上海                         | 运维工程师-网络安全技术方向                                  | 硕士+                                                        |
-| [中国电信天翼云](https://wecruit.hotjob.cn/SU62b2ae672f9d24458d72f9cc/pb/school.html?postName=%E5%AE%89%E5%85%A8) | 北京、成都、厦门、广州       | 信息安全工程师                                               | 北京需要硕士+                                                |
-| [浩鲸科技](http://iwhalecloud.zhiye.com/form?fromPage=job&jobAdId=fec6b63f-abc8-4f1d-9057-b0d867c9bc4e) | 南京                         | 安全工程师                                                   |                                                              |
-| [商汤科技](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/school.html?postName=%E5%AE%89%E5%85%A8) | 北京、深圳                   |                                                              |                                                              |
-| [三一重工](https://sanycampus.zhiye.com/campus?k=%E5%AE%89%E5%85%A8) | 长沙                         | 信息安全工程师                                               | 硕士+                                                        |
-| [经纬恒润](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/school.html?postName=%E5%AE%89%E5%85%A8) | 较多                         | 较多                                                         |                                                              |
-| [理想](https://li.jobs.feishu.cn/referral/campus/position/?keywords=%E5%AE%89%E5%85%A8&category=&location=&project=7095664339228051720&type=&job_hot_flag=&current=1&limit=10&functionCategory=&token=NTsxNjYwNTQwMjE4NDgzOzcxMTQ4MzEzNTczMDIwMTM5ODA7NzExOTQyNjMxOTE0NjIwNzUwMQ) | 北京、杭州                   | 安全研发工程师<br />安全运营工程师<br />安全测试工程师<br />信息安全合规专员 |                                                              |
-| [中国一汽](https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=202301) | 长春                         | [车联网安全工程师](https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=63049c732f9d2453a5e2e2ce&postType=campus)<br />[信息安全工程师](https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=62f0e07ebef57c29eacf940f&postType=campus)<br />[电子电气网络及安全软件工程师](https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=62e2870f2f9d24381014f7a2&postType=campus) |                                                              |
-| [中国系统](https://app.mokahr.com/campus_apply/cestc/7509#/jobs?keyword=%E5%AE%89%E5%85%A8) | 北京、武汉                   | [安全工程师](https://app.mokahr.com/campus_apply/cestc/7509#/job/85f40df5-1170-423c-be4c-96c21bff5582)<br />[数据安全工程师](https://app.mokahr.com/campus_apply/cestc/7509#/job/bb142f8a-c334-4d41-978e-caa20b134099) |                                                              |
-| [蚂蚁集团](https://talent.antgroup.com/campus-list?type=freshman) | 北京、上海、杭州、重庆、成都 | [安全工程师](https://talent.antgroup.com/campus-position?positionId=1102001303) |                                                              |
-| [联易融](https://hr.linklogis.com/#/jobDetail/08e50ef2-ec61-4b98-93f3-4c8501aa60d6/390509430?WorkingPlace=%E6%B7%B1%E5%9C%B3%E5%B8%82) | 深圳                         | 信息安全工程师                                               |                                                              |
-| [海信集团](https://hisense.zhiye.com/jihui?k=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8) | 佛山、青岛                   | 网络安全工程师                                               |                                                              |
-| [人保寿险](https://picc.zhiye.com/xzlist3?k=%E5%AE%89%E5%85%A8&d=-1&c=&p=1^-1,3^-1&PageIndex=1) | 福州、上海、佛山、南京       | 信息安全、基础安全、应用安全、数据安全                       |                                                              |
-| [途虎养车](https://app.mokahr.com/campus_apply/tuhu/28398?sourceToken=c403a200011f884f58ed33626baef087#/job/46ecffba-8698-4735-ab4d-6fe54261c277) | 上海                         | 信息安全工程师                                               |                                                              |
-| [零跑科技](https://leapmotor.zhiye.com/search?r=2&p=&c=&d=&k=%e5%ae%89%e5%85%a8#jlt) | 杭州                         | 信息安全工程师<br />信息安全开发工程师                       |                                                              |
-| [腾讯](https://join.qq.com/post_detail.html?pid=1&id=112&tid=2) | 深圳、北京                   | 安全技术                                                     |                                                              |
+综合性互联网：
+
+- [阿里巴巴](https://talent.alibaba.com/)：现在的业务集团和子业务公司都分开招聘了，进官网自己选就行
+- [字节跳动](https://jobs.bytedance.com/)
+- [腾讯](https://join.qq.com/)
+- [百度](https://talent.baidu.com/jobs/list?search=&recruitType=GRADUATE)
+- [网易互联网](https://campus.163.com/app/job/position?id=59)
+- [美团](https://zhaopin.meituan.com/web/campus)
+- [快手](https://campus.kuaishou.cn/#/campus/index)
+- [小红书](https://job.xiaohongshu.com/campus)
+- [滴滴](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)
+- [腾讯音乐](https://join.tencentmusic.com/)：注意腾讯音乐和腾讯是分开的
+- [携程](https://campus.ctrip.com/#/)
+- [58同城](https://campus.58.com/)
+- [途虎养车](https://app.mokahr.com/campus_apply/tuhu/28398#/)
+
+手机厂
+
+- [华为](https://career.huawei.com/)
+- [OPPO](https://careers.oppo.com/university/oppo/campus)
+- [小米](https://hr.xiaomi.com/campus)
+- [VIVO](https://hr.vivo.com/)
+- [荣耀](https://www.hihonor.com/cn/career/)
+- [传音](https://transsion.zhiye.com/)
+
+车企
+
+- [蔚来](https://nio.jobs.feishu.cn/campus)
+- [小鹏](https://app.mokahr.com/campus_apply/xiaopeng/22#/)
+- [吉利](https://campus.geely.com/campus-recruitment/geely/78436/#/)
+- [理想](https://li.jobs.feishu.cn/index)
+- [中国一汽](https://faw-zhaopin.hotjob.cn/)
+- [零跑科技](https://leapmotor.zhiye.com/)
+
+电商
+
+- [SHEIN 希音](https://talent.sheincorp.cn/CampusRecruiting.html)
+- [Shopee 虾皮](https://app.mokahr.com/campus_apply/shopee/2962#/)
+- [京东](https://campus.jd.com/)
+- [拼多多](https://careers.pinduoduo.com/campus/)
+
+AI、自动驾驶
+
+- [科大讯飞](https://campus.iflytek.com/)
+- [AutoX](https://app.mokahr.com/campus_apply/autox/6313#/)
+- [地平线](https://horizon.hotjob.cn/)
+- [Momenta](https://momenta.jobs.feishu.cn/talent)
+- [商汤科技](https://hr.sensetime.com/)
+- [经纬恒润](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/index.html#/)
+
+游戏
+
+- [网易雷火](https://leihuo.163.com/campus/#/)
+- [网易游戏（互娱）](https://game.campus.163.com/position)
+- [米哈游](https://jobs.mihoyo.com/#/campus)
+- [4399](http://web.4399.com/campus/)
+- [Garena](https://app.mokahr.com/campus_apply/garena/38200#/)
+- [完美世界](https://recruit.games.wanmei.com/#/)
+- [竞技世界](https://campus.jj.cn/#/chooseJob)
+
+电器、设备、终端、小众、外企、其他...
+
+- [海康威视](https://campushr.hikvision.com/school.html)
+- [联想](https://talent.lenovo.com.cn/home)
+- [TCL](https://campus.tcl.com/)
+- [中兴](https://app.mokahr.com/campus-recruitment/zte/46903#/)
+- [TP-Link](https://hr.tp-link.com.cn/jobList)
+- [海尔](http://vta.maker.haier.net/)
+- [格力](https://gree.zhiye.com/)
+- 美的
+- [西云数据](https://app.mokahr.com/campus_apply/nwcdcloud/4047#/)
+- 欧科云链（web3）
+
+运营商
+
+- 几大运营商自己搜吧...还可以关注下他们的子公司，例如天翼云什么的，也是不错的
+
+银行、保险、互联网金融
+
+- 银行、保险不一一放了，有些银行的研究院、实验室挺不错的
+- [度小满](https://app.mokahr.com/campus-recruitment/duxiaoman/74050#/)
+- [微众银行](https://campus.webank.com/campus-recruitment/webankhr/18005/#/)
+- [蚂蚁集团](https://talent.antgroup.com)
+- [联易融](https://hr.linklogis.com/#/)
+
 
 # 好文分享
 
@@ -121,7 +125,7 @@
 
 [一个双非安全菜鸡的秋招总结](https://hurricane618.me/2021/12/08/2021-autunm-recruitment-summary)
 
-**<big>目录</big>**
+# **<big>目录</big>**
 
 
 - [0x00 字节跳动-渗透测试实习生](#0x00-字节跳动-渗透测试实习生)
@@ -254,6 +258,14 @@
 - [0x7D 深信服](#0x7D-深信服)
 - [0x7E 大疆](#0x7E-大疆)
 - [0x7F 华为](#0x7F-华为)
+- [0x80 美团](#0x80-美团)
+- [0x81 快手](#0x81-快手)
+- [0x82 京东](#0x82-京东)
+- [0x83 百度](#0x83-百度)
+- [0x84 蚂蚁-天穹实验室](#0x84-蚂蚁-天穹实验室)
+- [0x85 吉利-极氪](#0x85-吉利-极氪)
+- [0x86 滴滴](#0x86-滴滴)
+- [0x87 字节-DataAML安全AI实习](#0x87-字节-DataAML安全AI实习)
 
 
 # 致谢
@@ -6611,3 +6623,278 @@ hr面是一个中年老男人，头发稀疏。。。有点害怕，但人还是
 11. 除了安全，对其他方面还有什么研究
 12. 手上有哪些offer？华为给了你offer之后会怎么选择？如果华为的钱没那些公司高怎么办？
 13. 反问
+
+
+
+
+
+> 从0x80~0x86 均来自 https://www.nowcoder.com/discuss/496834610337169408
+>
+> 作者：忧伤的柠檬精在看面经
+> 链接：https://www.nowcoder.com/discuss/496834610337169408
+> 来源：牛客网
+
+# 0x80 美团
+
+3-7投递，9号笔试，两道算法题，第1题36%，第2题0%，笔试情况很差没想到14号还是约面了。
+
+## 一面
+
+35min
+
+- 正向反向代理区别
+- 对称加密与非对称加密区别，运作流程
+- AES、ECC是什么加密？
+- 问项目（问的很细）
+- csrf与ssrf的区别
+- xss原理，有哪几种类型
+- dom型跟存储型xss有什么区别，dom xss原理？
+- sql注入有哪几种类型
+- 手写盲注payload，盲注原理，以及盲注流程。
+- 怎么定位域控？
+- 反问环节（第一次面试，啥也不懂，什么都没问）
+
+还有一些计网知识，忘问的啥了，处女面，没有任何准备，主要是前几个特别简单的题答错了，后面就没信心了，知道估计大概率要挂，后面进人才库之后被捞了，以为HR电话是推销的，连挂三个HR电话，流程结束。
+
+**美团总结：全是八股，加密、计网、web安全，浅挖项目，无场景题，有手搓。**
+
+# 0x81 快手
+
+有美团前车之鉴，面快手后稍微好一点
+
+## 一面
+
+40min
+
+- 问项目（负责的方向，干了什么）
+- 挖的src漏洞类型，怎么挖的？
+- 信息搜集流程，讲点非常规思路
+- 遇到子域名泛解析怎么办？
+- HW项目外网打点流程
+- ssrf常见场景有哪些？
+- java反序列化有了解过吗？讲讲原理
+- 内网横向手段
+- 手撕算法题
+- 还有一些记不起来了，大概是八股
+
+自我感觉面的还不错，几乎都答了，但是自我感觉答的比较浅，反问环节问了hc情况，面试官说竞争非常激烈，有很多很多人竞争，面评不错，说后续部门leader要横向比较。
+
+一面就排序...面完之后一周没动静，于是发邮件询问，问完后秒挂，面评很好也挂，估计学历的锅。
+
+**快手总结：八股多，排序久，难度适中**
+
+# 0x82 京东
+
+京东只有一面技术面，一次HR面，过了一面一般就稳了
+
+难度几乎按照中级红队规格来面的，面试官很厉害，技术强
+
+## 一面
+
+1h22m
+
+- 问项目，干了什么？有什么优势？
+- src相关
+- 信息搜集流程，IP段如何定位？
+- 子域名搜集手段及其原理（不要讲工具类的）
+- 逆向用的什么工具？hook相关讲一讲？
+- 白盒审计有没有做过？cve、cnvd讲一讲
+- csrf怎么修复？
+- waf怎么绕？云waf怎么绕？
+- java反序列化原理，漏洞函数
+- fastjson反序列化有没有了解？反序列化函数是哪个？讲一下细节
+- log4j-rce漏洞原理，怎么发现？怎么打？操作流程是啥？
+- fastjson反序列化与java反序列化有什么区别？
+- fastjson高版本怎么打？不出网怎么打？有什么利用链？
+- 内网渗透横向手段，135、445端口
+- 免杀相关？怎么判断是不是虚拟机环境？
+- 怎么判断是域环境还是工作组，讲讲细节
+- 如果是域环境你会怎么做？怎么拿下域控？
+- 你提到的PTH、域委派攻击讲一下？实战中有遇到过吗？
+- 讲一讲云原生攻防思路以及手段，实战中遇到的云环境是什么样的？
+- docker逃逸的手段，分别讲讲各种手段原理
+- 还有一些内网情景题跟八股，忘记了，实在太多了，面了很久
+- 反问（部门情况，工作内容）
+
+一面后三天挂，自我感觉良好，几乎都答的还不错，还是挂了，我以为面了这么久，也没啥卡顿，面试官应该还满意，应该能过，唉，京东面之后心态开始出现变化，有点难受。
+
+**京东总结：大量八股，几乎涵盖大部分安全方向，除了密码学还有pwn，难度偏难，面试官很厉害，绝对是实战大佬，你答的如果有一点不对，面试官会立马指出错误，然后细问，压力很大，如果靠纯背八股，没有实战经验跟自己的理解的话肯定会背问的死死的。**
+
+# 0x83 百度 
+
+走的简历直达，免笔试，简历评估过了之后直接约面
+
+## 一面
+
+（45min）
+
+- 标准流程，渗透测试流程
+- 信息搜集手段，大型企业怎么去搜集资产，你src信息搜集怎么做的？
+- 讲讲为什么你能挖到src上其他人挖不到漏洞？
+- ssrf原理，bypass手段
+- dns重绑定原理，307跳转讲一讲
+- ssrf打redis讲一讲？细节？流程
+- ssrf支持哪些协议？dict、gopher协议讲一讲
+- 云环境怎么打？k8s有没有遇到过？
+- RASP了解过吗？原理是啥？
+- shiro漏洞，550 721原理？讲一讲550的原理
+- 大型域环境，域森林怎么打？怎么快速速通大型域环境？
+- 那怎么定位域管登录过的主机？定位原理是什么？
+- 这么大的域，如果靠穷举定位域管的话特别慢，那怎么办？
+- 数据库攻击手段？MySQL、mssql怎么打？
+- mssql除了xp_cmdshell、sp_oacarte还有什么办法执行命令？
+- 讲一讲CLR原理以及流程流程
+- Orcle能不能rce？怎么rce？前置条件是啥？
+- 问项目、实习
+- 反问
+- 还漏了一点点，忘记了
+
+面完之后没动静，hc不够，约面的时候百度实习招聘期已经快结束了。
+
+**百度总结：难度中规中矩，涉猎面比较广，百度对RASP这块比较感兴趣，毕竟是最早做RASP的厂商，八股答的还行，但是情急题答的一般，确实不会，没遇到过超大型域。**
+
+# 0x84 蚂蚁 天穹实验室
+
+没想到能过简历...还是实验室
+
+## 一面
+
+（30min）
+
+几乎没有什么八股，全是挖简历
+
+- 挖src流程，讲几个你觉得很不错的例子（问的很细，一面就开始深挖）
+- 说一下你的优势，实习期间你学到了什么？
+- 以后打算发展的方向，手上有哪些offer？
+- 谈谈chatgpt在安全领域发展的前景，你会用它做什么？
+- 简历上GitHub上几个项目的技术栈，实现原理
+- cve、cnvd审计细节
+- 白盒黑盒审计流程讲一下
+- 白盒审计工具有没有用过？
+- spring源码有没有读过？
+- 剩下的真忘了，都是问项目跟经历，然后聊方向，聊大趋势
+
+## 二面
+
+（35min）
+
+还是深挖经历跟实习，情景题，没有一点八股
+
+- 讲一讲你挖的几个精彩的漏洞
+- 讲一讲云环境渗透例子
+- 怎么判断是不是特权容器？
+- 如果你是开发者，这种签名算法相关的漏洞你会怎么去修复？
+- 讲讲在阿里挖的几个漏洞
+- 给你一个登录口怎么攻击？2FA能杜绝隐患吗？
+- 如果你的目标是蚂蚁，你怎么去攻击？讲一讲攻击面？薄弱点有哪些？
+- 支付、认证这块的漏洞怎么去防御？
+- 疯狂挖HW经历，讲自己的优势，你们队的优势在哪里，为什么能赢？
+- 你的域委派怎么打的？怎么发现的？
+- 手上有哪些offer？为什么不去呢？
+- 反问环节：问面试官为啥不问八股，面试官说八股没意思，能过简历跟一面就已经没必要问八股了
+- 反问环节：hc多不多？面试官：够够的，我们的要求比较高，每年都能剩下hc
+
+**蚂蚁天穹总结：偏难，尤其二面，面试官真的一点八股不问，全是挖简历跟情景题，面试官不想要普通的答案，要非常规的另类思路，**
+
+**一定不能八股式的回答！！！**
+
+**面试官人很好，后面其实我知道自己要挂了，面试官给了很多意见，说你还年轻，还有很多机会，不要浪费时间，要往更难更高的领域钻，不要大众化**
+
+面完之后第二天挂，很难过，当时做梦都是蚂蚁面试
+
+# 0x85 吉利 极氪
+
+无笔试，投完简历当天约面，一上来就两个面试官一个HR
+
+## 一面（45min）
+
+- 挖简历，问实习，问细节
+- xss、sql、csrf、ssrf原理
+- 指纹采集的原理
+- 漏扫源码有没有读过？
+- ssrf出现在哪些业务场景？
+- 无回显的ssrf怎么利用？
+- ssrf+redis利用中，为什么redis能正确处理dict协议发来的流量？
+- mssql命令执行讲一讲
+- 只有mysql权限怎么拿shell？
+- 怎么找绝对路径？
+- 怎么定位web路径？
+- 站库分离，mysql用来存储序列化数据，web站点不出网，你只能操作mysql，怎么反弹web主机的shell？
+- http、tcp、socket、icmp隧道讲一讲？
+- 还有很多八股，不写了，八股都挺常规
+- hr面：什么时候来实习？能实习多久？车联网有兴趣吗？说说你的优势，怎么处理难题？
+
+**极氪总结：两个面试官车轮战，一面二面hr面都包含了，面了很多，难度适中，情景题偏多，占大部分时间，你提一个思路，面试官就会更新对应防御手段，然后问你会怎么办，分别扮演一攻一防的角色**
+
+第二天早上OC，梦中惊醒接电话，HR说面试通过了，后面没有面试了，然后就是谈入职时间，实习要6个月以上才能转正，最后拒OC了，孤注一掷面滴滴。
+
+# 0x86 滴滴
+
+两面，一天一面，oc也很快，offer隔天发，真的效率高
+
+## 一面（35min）
+
+- 问简历，实习，项目角色
+- 信息搜集手段
+- 遇到泛解析怎么办？
+- CDN绕过手段
+- 讲讲CTF比赛的细节
+- java反序列化讲一讲
+- cc链讲一讲
+- fastjson反序列化讲一讲？
+- autotype机制讲一讲，autotype=false怎么绕过？
+- autotype=false绕过有几种思路？
+- jndi注入讲一下
+- 剩下的不多，忘记了
+
+## 二面（35min）
+
+- 讲几个自己挖到的高危漏洞？
+- 硬编码漏洞讲一下，修复手段？
+- 怎么杜绝签名算法被破解的安全隐患？
+- 非对称加密能不能修复？
+- 除了web漏洞，讲一讲其他类型的漏洞
+- 一个IP，上面没有web服务，怎么去攻击？
+- GitHub项目细节
+- shellcode加载器原理，免杀细节
+- log4j漏洞怎么挖？
+- 有没有自己写过漏扫工具？
+- 你用python、java主要干什么？
+- 闲聊：为什么想来滴滴？其他offer为什么不接？工作内容了解吗？
+
+**总结：滴滴yyds！效率真的很快，难度适中，一面面评还不错，二面情景题答的一般，其实后面复盘的时候，发现那个情景题应该是无解，当时想了半天都没想到。**
+
+
+
+# 0x87 字节-DataAML安全AI实习
+
+密码学方向的大佬
+
+> 作者：阿龙吃了睡
+> 链接：https://www.nowcoder.com/feed/main/detail/5039f9297fb4489ba1020ffd52d1d916?sourceSSR=search
+> 来源：牛客网
+
+## 一面
+
+（1）中等难度的算法 Leetcode 二叉树最近父节点
+
+（2）RSA加解密过程和大整数分解问题
+
+（3）GDPR，这部分并不是很懂，没怎么答上来
+
+（4）Paillier算法是怎么加速的？我说了GPU并行和CRT和快速模幂运算，但是面试官不是很满意这个答案
+
+（5）MPC相关，ABY3用了哪些秘密共享，是怎么计算乘法的？
+
+（6）2方，3方，4方MPC协议哪个计算乘法最高效，为什么？
+
+（7）Beaver三元组有哪些优势和劣势？接触过相关的实验吗？
+
+（8）平常使用过哪些开源的MPC算法框架？
+
+（9）知不知道K8s和Docker？
+
+最后问了问会不会GO？
+
+
+
