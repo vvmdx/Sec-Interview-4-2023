@@ -7,7 +7,7 @@
 
 这里先推荐一个社群，我看了一下内容，这不就是专门为求职量身定做的嘛！
 
-<img src="D:\Coding\Typora\Pictures\README\image-20240627150303638.png" alt="image-20240627150303638" style="zoom:30%;" /><img src="D:\Coding\Typora\Pictures\README\image-20240627151032316.png" alt="image-20240627151032316" style="zoom:30%;" />
+<img src="resources\image1.png" alt="image-20240627150303638" style="zoom:30%;" /><img src="resources\image2.png" alt="image-20240627151032316" style="zoom:30%;" />
 
 里面的内容基本也都是求职相关的知识，我觉得大多数人的技术能力其实都是能达到门槛的，只是不擅长在面试中展示自己，或者不擅长寻找机会；这个星球正好能够解决求职、交流、简历的问题，秋招季正好可以多看一看：）
 
